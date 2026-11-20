@@ -10,6 +10,8 @@ entidad.py - cliente.py
 3 Ronald de Hoyos Hoyos - escogí parte 3-
 Clase_Reserva 
 
+4 Salome Infante Quiñonez - escogí parte 2 -servicios.py
+
 Parte que le toca a cada integrante
     1.  Excepciones, clase abstracta base y Cliente
 	2.	Clase abstracta Servicio y servicios (salas, equipos, asesorías)
